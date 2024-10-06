@@ -1,2 +1,6 @@
 Initial commit
+<<<<<<< HEAD
 Changes on master
+=======
+Changes on branch_1
+>>>>>>> branch_1
